@@ -7,9 +7,12 @@
   border-radius: 6px; }
 
 .box-02 {
-  background: oranje;
-  color: #fff; }
+  background: orange;
+  color: #000; }
   .box-02:hover {
-    color: #000; }
+    background: #fff; }
+    .box-02:hover h3 {
+      font-size: 14px;
+      color: orange; }
 
 /*# sourceMappingURL=main.css.map */

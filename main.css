@@ -1,0 +1,15 @@
+.box, .box-02 {
+  padding: 10;
+  background: #fff;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  border-radius: 6px; }
+
+.box-02 {
+  background: oranje;
+  color: #fff; }
+  .box-02:hover {
+    color: #000; }
+
+/*# sourceMappingURL=main.css.map */
